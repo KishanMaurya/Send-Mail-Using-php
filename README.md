@@ -1,5 +1,5 @@
 # Send-Mail-Using-php
-Send Mail Using php (HTML, CSS, BOOTSTRAP 4+, PHP Mailer
+## Send Mail Using php (HTML, CSS, BOOTSTRAP 4+, PHP Mailer)
 
 Home Screen
 ![mail](https://user-images.githubusercontent.com/45098599/79381041-fae2dd00-7f7e-11ea-8c54-2663f223be67.png)

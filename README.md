@@ -15,7 +15,7 @@
 
 
 
-### Before send mail ,set your gmail account (Less secure app access)
+### Before send the mail ,set your gmail account (Less secure app access)
 ### click here secure your gmail account https://myaccount.google.com/u/0/lesssecureapps
 
 

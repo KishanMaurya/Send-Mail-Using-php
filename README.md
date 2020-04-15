@@ -10,3 +10,7 @@ fill Screen
 Send Screen
 ![send](https://user-images.githubusercontent.com/45098599/79381050-fe766400-7f7e-11ea-9c13-96bc46c6ce4c.png)
 
+
+
+### Before send mail ,set your gmail account (Less secure app access)
+### click here secure your gmail account https://myaccount.google.com/u/0/lesssecureapps
